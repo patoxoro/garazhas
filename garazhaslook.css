@@ -72,10 +72,6 @@
 #rs-skip-button {
 	right: 54px;
 }
-/* Less ugly footer */
-#footer {
-    background: linear-gradient(to bottom,rgba(30,34,41, 1) 0,rgba(21,23,28, 1) 100%);
-}
 #playlist-button {
     background: #1C1F25;
     background: linear-gradient(to bottom,rgba(57,63,76, 1) 0,rgba(34,38,46, 1) 100%);
