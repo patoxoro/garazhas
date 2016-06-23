@@ -1,0 +1,11 @@
+#chat-messages .fromID-4343261 .badge-box i,
+#chat-messages .id-4343261 .badge-box i {
+    background-image: url(https://mitchdev.net/pdj/icons/CordiBeats.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+    }
