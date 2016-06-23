@@ -50,32 +50,6 @@
 .app-right .friends .list .row .room, .app-right .friends .list .row .name span {
     width: 175px;
 }
-*/
-/* Header */
-.app-right .divider {
-    display: none;
-}
-.right-meta,
-#history-button,
-#rs-skip-button {
-    background: linear-gradient(to bottom,rgba(30,34,41, 1) 0,rgba(19,21,26, 1) 100%);
-}
-.right-meta .selected,
-#history-button.selected {
-    border-right: none;
-    background: #0A0A0A;
-}
-#history-button,
-#rs-skip-button {
-    border-right: #0A0A0A 1px solid;
-}
-#rs-skip-button {
-	right: 54px;
-}
-#playlist-button {
-    background: #1C1F25;
-    background: linear-gradient(to bottom,rgba(57,63,76, 1) 0,rgba(34,38,46, 1) 100%);
-}
 /* Fix for images being centered  */
 center {
     display: block;
