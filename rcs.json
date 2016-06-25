@@ -1,0 +1,45 @@
+{
+    "room": "TheSoundYouNeed",
+    "author": "patoxoro",
+    "icon": "",
+    "css": "https://cdn.rawgit.com/patoxoro/garazhas/gh-pages/garazhaslook.css", "https://rawgit.com/patoxoro/garazhas/gh-pages/badges.css"
+    "rules": {
+        "allowAutorespond": "true",
+        "allowAutowoot": "true",
+        "allowAutojoin": "true",
+        "allowAutograb": "true",
+        "allowSmartVote": "true",
+        "allowEmotes": "true",
+        "allowShowingMehs": "true",
+        "forceSmartVote": "false"
+    },
+    "ccc": {
+        "admin": "",
+        "ambassador": "",
+        "host": "#ff1d13",
+        "cohost": "#ff1d13",
+        "manager": "#0191ff",
+        "bouncer": "#33cc54",
+        "rdj": "#ef3b98",
+        "subscriber": "",
+        "silversubscriber": "",
+        "friend": "",
+        "user": ""
+    },
+    "images": {
+        "background": "https://cdn.radiant.dj/rcs/bg/2k15nyc.jpg",
+        "playback": "",
+        "admin": "",
+        "ambassador": "",
+        "host": "https://i.imgur.com/bvcSzjU.png",
+        "cohost": "https://i.imgur.com/bvcSzjU.png",
+        "manager": "https://i.imgur.com/aXQcRqS.png",
+        "bouncer": "https://i.imgur.com/6qa4fsm.png",
+        "rdj": "https://i.imgur.com/jkwTDQG.png",
+        "subscriber": "",
+        "silversubscriber": ""
+    },
+    "emotes": {
+        "emote_name": null
+    }
+}
