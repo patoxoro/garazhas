@@ -2,7 +2,7 @@
     "room":                     "patoxoro's room.",
     "author":                   "patoxoro",
     "icon":                     "http://i.imgur.com/Yh3Dpts.png",
-    "css":                      "http://rawgit.com/patoxoro/garazhas/master/themepatoo.css",
+    "css":                      "http://rawgit.com/patoxoro/garazhas/master/themepatoo.css", "http://rawgit.com/patoxoro/garazhas/master/users.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
