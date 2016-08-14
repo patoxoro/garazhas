@@ -16,8 +16,8 @@
     "ccc": {
         "admin":                "#42A5DC",
         "ambassador":           "#84B423",
-        "host":                 "#006b8c",
-        "cohost":               "#006b8c",
+        "host":                 "#00890f",
+        "cohost":               "#00890f",
         "manager":              "#00890f",
         "bouncer":              "#00890f",
         "rdj":                  "#00890f",
@@ -27,7 +27,7 @@
         "user":                 "#8B92A3"
     },
     "images": {
-        "background":           null,
+        "background":           "http://i.imgur.com/54rT7rM.png",
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
