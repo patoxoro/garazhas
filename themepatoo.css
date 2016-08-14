@@ -1,7 +1,7 @@
 @import url("https://rawgit.com/patoxoro/garazhas/master/users.css") !important;
 
 #room-bar .icon-room {
-    background: url(http://i.imgur.com/54rT7rM.png);
+    background: url(http://i.imgur.com/G20G4gr.png);
 }
 
 #playback-container {
@@ -62,7 +62,7 @@
 }
 
 #grab .bottom #grab.selected {
-    background: #00afe4 !important;
+    background: #00890f !important;
 }
 
 #footer-user .bar .progress {
@@ -74,11 +74,11 @@
 }
 
 .activate-button span {
-    color: #FFFFFF !important;
+    color: #00890f !important;
 }
 
 #playlist-activate-button {
-    background: none !important;
+    background: #00890f !important;
 }
 
 #playlist-activate-button span {
@@ -90,7 +90,7 @@
 }
 
 .media-list .row.selected {
-    background: #39688D !important;
+    background: #00890f !important;
 }
 
 .media-list .selected .actions {
@@ -109,27 +109,27 @@
 }
 
 #room-info .button.enabled {
-    background: #00afe4 !important;
+    background: #00890f !important;
 }
 
 #playlist-create:hover {
-    background: #0191ff !important;
+    background: #00890f !important;
 }
 
 #playlist-import:hover {
-    background: #0191ff !important;
+    background: #00890f !important;
 }
 
 #playlist-edit-button:hover {
-    background: #0191ff !important;
+    background: #00890f !important;
 }
 
 #playlist-shuffle-button:hover {
-    background: #0191ff !important;
+    background: #00890f !important;
 }
 
 #playlist-delete-button:hover {
-    background: #c42e3b !important;
+    background: #00890f !important;
 }
 
 .tab-menu button.selected {
@@ -137,7 +137,7 @@
 }
 
 #dj-button .left {
-    background: #00afe4 !important;
+    background: #00890f !important;
 }
 
 #dj-button.is-leave .left {
@@ -145,7 +145,7 @@
 }
 
 #dj-button.is-quit .left {
-    background: #FF3558 !important;
+    background: #00890f !important;
 }
 
 .delete-button:hover {
@@ -157,7 +157,7 @@
 }
 
 #chat .icon .icon-p3 {
-    background-image: url('') !important;
+    background-image: url('http://i.imgur.com/G20G4gr.png') !important;
 }
 
 .icon-chat-ambassador + span {
@@ -193,7 +193,7 @@
 }
 
 #chat .moderation, #chat .moderation .from .un{
-    color: #01e1ff;
+    color: #00890f;
 }
 
 #chat .message:hover #chat .emote:hover #chat .update:hover {
