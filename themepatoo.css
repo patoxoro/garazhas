@@ -1,7 +1,7 @@
 @import url("https://rawgit.com/patoxoro/garazhas/master/users.css") !important;
 
 #room-bar .icon-room {
-    background: url(http://i.imgur.com/G20G4gr.png);
+    background: url(http://i.imgur.com/Yh3Dpts.png);
 }
 
 #playback-container {
@@ -78,7 +78,7 @@
 }
 
 #playlist-activate-button {
-    background: #00890f !important;
+    background: none !important;
 }
 
 #playlist-activate-button span {
