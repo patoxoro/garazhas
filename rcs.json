@@ -1,8 +1,8 @@
 {
     "room":                     "patoxoro's room.",
     "author":                   "patoxoro",
-    "icon":                     "http://i.imgur.com/Yh3Dpts.png",
-    "css":                      "http://rawgit.com/patoxoro/garazhas/master/themepatoo.css",
+    "icon":                     "https://i.imgur.com/Yh3Dpts.png",
+    "css":                      "https://rawgit.com/patoxoro/garazhas/master/themepatoo.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
@@ -27,15 +27,15 @@
         "user":                 "#8B92A3"
     },
     "images": {
-        "background":           "http://i.imgur.com/54rT7rM.png",
+        "background":           "https://i.imgur.com/54rT7rM.png",
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
-        "host":                 "http://i.imgur.com/4z0B8aJ.png",
-        "cohost":               "http://i.imgur.com/4z0B8aJ.png",
-        "manager":              "http://i.imgur.com/HiBsgPp.png",
-        "bouncer":              "http://i.imgur.com/6En8ksZ.png",
-        "rdj":                  "http://i.imgur.com/x4CwDnW.png",
+        "host":                 "https://i.imgur.com/4z0B8aJ.png",
+        "cohost":               "https://i.imgur.com/4z0B8aJ.png",
+        "manager":              "https://i.imgur.com/HiBsgPp.png",
+        "bouncer":              "https://i.imgur.com/6En8ksZ.png",
+        "rdj":                  "https://i.imgur.com/x4CwDnW.png",
         "subscriber":           null,
         "silversubscriber":     "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },
