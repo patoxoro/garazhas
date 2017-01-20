@@ -306,3 +306,16 @@ BADGES
     border: none;
     border-radius: 0;
 }
+
+#chat-messages .fromID-17528147 .badge-box i,
+#chat-messages .id-17528147 .badge-box i {
+    background-image: url(http://wingswatches.co/cliparts/snake-clipart/cliparti1_snake-clipart_02.jpg);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+    
+}
