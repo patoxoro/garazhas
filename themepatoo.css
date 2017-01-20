@@ -290,3 +290,19 @@
 body {
     background-size: 100% auto !important background-attachment: fixed 0px 0px !important
 } 
+
+/*
+BADGES
+*/
+
+#chat-messages .fromID-4343261 .badge-box i,
+#chat-messages .id-4343261 .badge-box i {
+    background-image: url(http://i.imgur.com/Dk6eSD3.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
