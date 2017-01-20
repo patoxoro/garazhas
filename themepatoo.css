@@ -320,6 +320,18 @@ BADGES
     
 }
 
+#chat-messages .fromID-5485803 .badge-box i,
+#chat-messages .id-5485803 .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/5767548.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+
 /*
 CUSTOM FOOTER
 */
