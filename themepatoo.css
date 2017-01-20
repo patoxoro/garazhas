@@ -319,3 +319,29 @@ BADGES
     border-radius: 0;
     
 }
+
+/*
+CUSTOM FOOTER
+*/
+
+#footer {
+	background: linear-gradient(to bottom,rgba(0, 0, 0, 0.45) 0,rgba(0, 0, 0, 0.75) 100%);
+}
+#footer-user .info.showing .meta .bar .progress {
+	background:#2D9400;
+}
+#footer-user .info.showing .meta .level .label {
+	color:#EFEFEF;
+}
+#footer-user .info.showing .meta .level .value {
+	color:#EFEFEF;
+}
+#footer-user .info.is-staff.showing .name {
+	color: #0EB006;
+}
+#footer .shop-button {
+	background: linear-gradient(to bottom,rgba(0, 0, 0, 0.45) 0,rgba(0, 0, 0, 0.75) 100%);
+}
+#footer-user .info.showing {
+	background: linear-gradient(to bottom,rgba(0, 0, 0, 0.55) 0,rgba(0, 0, 0, 0.85) 100%);
+}
