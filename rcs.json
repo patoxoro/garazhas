@@ -1,8 +1,8 @@
 {
     "room":                     "patoxoro's room.",
     "author":                   "patoxoro",
-    "icon":                     "http://i.imgur.com/Yh3Dpts.png",
-    "css":                      "https://rawgit.com/patoxoro/garazhas/master/themepatoo.css",
+    "icon":                     "http://i.imgur.com/G20G4gr.png",
+    "css":                      "https://rawgit.com/patoxoro/garazhas/master/themepatoo.css; https://rawgit.com/patoxoro/garazhas/master/users.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
@@ -27,7 +27,7 @@
         "user":                 "#8B92A3"
     },
     "images": {
-        "background":           "http://i.imgur.com/GrQDOQ9.png",
+        "background":           "http://i.imgur.com/sc9pvp2.png",
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
