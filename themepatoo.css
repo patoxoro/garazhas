@@ -420,3 +420,31 @@ LE PURPLE
     font-weight: bold;
     color: #ac76ff;
 }
+
+/*KURWA SPECIAL*/
+
+/*MANTA5*/
+
+.id-17940223 .meta .username:after {
+		white-space: pre;
+		font-size: 10pt;
+		display: block;
+		margin-top: 50px;
+		color: #0000FF;
+		font-weight: bold;
+		cursor: text;
+}
+[data-cid^="17940223-"] .msg .from .un {
+		position: relative;
+		left: -1px;
+		padding-left: 18px;
+		background-image: url('http://icons.iconarchive.com/icons/yusuke-kamiyamane/fugue/16/animal-dog-icon.png');
+		background-repeat: no-repeat;
+		background-position: -1px center;
+		background-size: 16px auto;
+}
+
+/*Manta5*/
+[data-cid^="17940223"].cm .msg .from .un, #user-lists .list .role-manager.id-17940223 .name {
+  color: rgba(13, 229, 213, 1) !important;
+}
