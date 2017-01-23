@@ -316,8 +316,7 @@ BADGES
     top: 0;
     left: 0;
     border: none;
-    border-radius: 0;
-    
+    border-radius: 0;    
 }
 
 #chat-messages .fromID-5485803 .badge-box i,
@@ -342,7 +341,18 @@ BADGES
     left: 0;
     border: none;
     border-radius: 0;
-	
+}
+
+#chat-messages .fromID-17940223 .badge-box i,
+#chat-messages .id-17940223 .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/Vicion.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
 }
 
 /*
