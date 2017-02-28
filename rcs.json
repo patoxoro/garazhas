@@ -1,7 +1,7 @@
 {
     "room":                     "Kamurke",
     "author":                   "patoxoro",
-    "icon":                     "http://i.imgur.com/G20G4gr.png",
+    "icon":                     null,
     "css":                      "https://rawgit.com/patoxoro/garazhas/master/themepatoo.css",
     "rules": {
         "allowAutorespond":     true,
@@ -27,7 +27,7 @@
         "user":                 "#8B92A3"
     },
     "images": {
-        "background":           "http://i.imgur.com/sc9pvp2.png",
+        "background":           "http://i.imgur.com/bJ7ZZAD.jpg",
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
