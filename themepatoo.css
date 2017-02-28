@@ -76,7 +76,7 @@
 }
 
 #playlist-activate-button {
-    background: none !important;
+    background: #58F !important;
 }
 
 #playlist-activate-button span {
@@ -151,11 +151,11 @@
 }
 
 .icon-plug-dj {
-    display: none;
+    display: #58F;
 }
 
 #chat .icon .icon-p3 {
-    background-image: url('http://i.imgur.com/G20G4gr.png') !important;
+    background-image: url('null') !important;
 }
 
 .icon-chat-ambassador + span {
