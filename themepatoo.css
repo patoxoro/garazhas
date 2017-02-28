@@ -26,7 +26,7 @@
 }
 
 .icon-chat-host > span {
-    color: #5BF !important;
+    color: #58F !important;
 }
 
 #playlist-panel {
@@ -38,41 +38,41 @@
 }
 
 #playback-controls .button.snooze {
-    background: #5BF !important;
+    background: #58F !important;
     opacity: .7;
 }
 
 #playlist-button {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 #playlist-menu .menu .row.selected {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 .media-list .row.now-playing {
-    background: #5BF !important;
-    border-bottom: 1px solid #5BF !important;
+    background: #58F !important;
+    border-bottom: 1px solid #58F !important;
 }
 
 #playlist-menu .menu .row .count {
-    color: #5BF !important;
+    color: #58F !important;
 }
 
 #grab .bottom #grab.selected {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 #footer-user .bar .progress {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 .experience .xp .bar .progress {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 .activate-button span {
-    color: #5BF !important;
+    color: #58F !important;
 }
 
 #playlist-activate-button {
@@ -80,74 +80,74 @@
 }
 
 #playlist-activate-button span {
-    color: #5BF !important;
+    color: #58F !important;
 }
 
 .media-list .row.now-playing .actions {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 .media-list .row.selected {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 .media-list .selected .actions {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 #user-lists .header .button.staff.selected {
-    border-bottom: 1px solid #5BF !important;
+    border-bottom: 1px solid #58F !important;
 }
 
 .dialog.destructive .button.submit {
 }
 
 #room-info .button.disabled {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 #room-info .button.enabled {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 #playlist-create:hover {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 #playlist-import:hover {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 #playlist-edit-button:hover {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 #playlist-shuffle-button:hover {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 #playlist-delete-button:hover {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 .tab-menu button.selected {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 #dj-button .left {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 #dj-button.is-leave .left {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 #dj-button.is-quit .left {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 .delete-button:hover {
-    background: #5BF !important;
+    background: #58F !important;
 }
 
 .icon-plug-dj {
@@ -163,23 +163,23 @@
 }
 
 .icon-chat-host + span {
-    color: #5BF !important;
+    color: #58F !important;
 }
 
 .icon-chat-cohost + span {
-    color: #5BF !important;
+    color: #58F !important;
 }
 
 .icon-chat-manager + span {
-    color: #5BF !important;
+    color: #58F !important;
 }
 
 .icon-chat-bouncer + span {
-    color: #5BF !important;
+    color: #58F !important;
 }
 
 .icon-chat-dj + span {
-    color: #5BF !important;
+    color: #58F !important;
 }
 
 #chat .emote #chat .mention #chat .message #chat .moderation #chat .skip #chat .system #chat .update #chat .welcome {
@@ -191,7 +191,7 @@
 }
 
 #chat .moderation, #chat .moderation .from .un{
-    color: #5BF;
+    color: #58F;
 }
 
 #chat .message:hover #chat .emote:hover #chat .update:hover {
@@ -208,7 +208,7 @@
     -moz-transition: 100ms linear 50ms;
     -o-transition: 100ms linear 50ms;
     -webkit-transition: 100ms linear 50ms;
-    border-left: #5BF 1px solid;
+    border-left: #58F 1px solid;
     padding-left: 1px;
     text-decoration: none;
     transition: 100ms linear 50ms;
@@ -284,7 +284,7 @@
 }
 
 .drag-media-box {
-    background-color: #5BF
+    background-color: #58F
 }
 
 body {
@@ -297,7 +297,7 @@ BADGES
 
 #chat-messages .fromID-4343261 .badge-box i,
 #chat-messages .id-4343261 .badge-box i {
-    background-image: url(https://chilloutmusica.github.io/cm/src/badges/roomba.gif);
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/5271606.gif);
     background-size: cover;
     width: 30px;
     height: 30px;
@@ -346,6 +346,18 @@ BADGES
 #chat-messages .fromID-17940223 .badge-box i,
 #chat-messages .id-17940223 .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Vicion.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+
+#chat-messages .fromID-13505285 .badge-box i,
+#chat-messages .id-13505285 .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/4457882.gif);
     background-size: cover;
     width: 30px;
     height: 30px;
