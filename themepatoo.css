@@ -435,20 +435,4 @@ LE PURPLE
 
 /*KURWA SPECIAL*/
 
-/*MANTA5*/
-
-}
-[data-cid^="4343261-"] .msg .from .un {
-		position: relative;
-		left: -1px;
-		padding-left: 18px;
-		background-image: url('http://icons.iconarchive.com/icons/yusuke-kamiyamane/fugue/16/animal-dog-icon.png');
-		background-repeat: no-repeat;
-		background-position: -1px center;
-		background-size: 16px auto;
-}
-
-/*Manta5*/
-[data-cid^="4343261"].cm .msg .from .un, #user-lists .list .role-manager.id-4343261 .name {
-  color: rgba(13, 229, 213, 1) !important;
 }
