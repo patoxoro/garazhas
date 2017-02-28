@@ -36,8 +36,8 @@
         "manager":              "https://i.imgur.com/h3eEVmr.png",
         "bouncer":              "https://i.imgur.com/iCsJUdU.png",
         "rdj":                  "https://i.imgur.com/z2wqpPb.png",
-        "subscriber":           "https://raw.githubusercontent.com/Plug-It/pi/pre-release/img/chat/crown.png",
-        "silversubscriber":     "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+        "subscriber":           null,
+        "silversubscriber":     null
     },
     "autocomplete": [],
     "emotes": {
