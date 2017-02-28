@@ -1,5 +1,5 @@
 #room-bar .icon-room {
-    background: url(http://i.imgur.com/G20G4gr.png);
+    background: url(https://i.imgur.com/G20G4gr.png);
 }
 
 #playback-container {
@@ -26,7 +26,7 @@
 }
 
 .icon-chat-host > span {
-    color: #00890f !important;
+    color: #5BF !important;
 }
 
 #playlist-panel {
@@ -38,41 +38,41 @@
 }
 
 #playback-controls .button.snooze {
-    background: #00890f !important;
+    background: #5BF !important;
     opacity: .7;
 }
 
 #playlist-button {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 #playlist-menu .menu .row.selected {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 .media-list .row.now-playing {
-    background: #00890f !important;
-    border-bottom: 1px solid #00890f !important;
+    background: #5BF !important;
+    border-bottom: 1px solid #5BF !important;
 }
 
 #playlist-menu .menu .row .count {
-    color: #00890f !important;
+    color: #5BF !important;
 }
 
 #grab .bottom #grab.selected {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 #footer-user .bar .progress {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 .experience .xp .bar .progress {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 .activate-button span {
-    color: #00890f !important;
+    color: #5BF !important;
 }
 
 #playlist-activate-button {
@@ -80,74 +80,74 @@
 }
 
 #playlist-activate-button span {
-    color: #00890f !important;
+    color: #5BF !important;
 }
 
 .media-list .row.now-playing .actions {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 .media-list .row.selected {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 .media-list .selected .actions {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 #user-lists .header .button.staff.selected {
-    border-bottom: 1px solid #00890f !important;
+    border-bottom: 1px solid #5BF !important;
 }
 
 .dialog.destructive .button.submit {
 }
 
 #room-info .button.disabled {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 #room-info .button.enabled {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 #playlist-create:hover {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 #playlist-import:hover {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 #playlist-edit-button:hover {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 #playlist-shuffle-button:hover {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 #playlist-delete-button:hover {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 .tab-menu button.selected {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 #dj-button .left {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 #dj-button.is-leave .left {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 #dj-button.is-quit .left {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 .delete-button:hover {
-    background: #00890f !important;
+    background: #5BF !important;
 }
 
 .icon-plug-dj {
@@ -163,23 +163,23 @@
 }
 
 .icon-chat-host + span {
-    color: #00890f !important;
+    color: #5BF !important;
 }
 
 .icon-chat-cohost + span {
-    color: #00890f !important;
+    color: #5BF !important;
 }
 
 .icon-chat-manager + span {
-    color: #00890f !important;
+    color: #5BF !important;
 }
 
 .icon-chat-bouncer + span {
-    color: #00890f !important;
+    color: #5BF !important;
 }
 
 .icon-chat-dj + span {
-    color: #00890f !important;
+    color: #5BF !important;
 }
 
 #chat .emote #chat .mention #chat .message #chat .moderation #chat .skip #chat .system #chat .update #chat .welcome {
@@ -191,7 +191,7 @@
 }
 
 #chat .moderation, #chat .moderation .from .un{
-    color: #00890f;
+    color: #5BF;
 }
 
 #chat .message:hover #chat .emote:hover #chat .update:hover {
@@ -208,7 +208,7 @@
     -moz-transition: 100ms linear 50ms;
     -o-transition: 100ms linear 50ms;
     -webkit-transition: 100ms linear 50ms;
-    border-left: #00890f 1px solid;
+    border-left: #5BF 1px solid;
     padding-left: 1px;
     text-decoration: none;
     transition: 100ms linear 50ms;
@@ -284,7 +284,7 @@
 }
 
 .drag-media-box {
-    background-color: #00890f
+    background-color: #5BF
 }
 
 body {
@@ -425,16 +425,8 @@ LE PURPLE
 
 /*MANTA5*/
 
-.id-17940223 .meta .username:after {
-		white-space: pre;
-		font-size: 10pt;
-		display: block;
-		margin-top: 50px;
-		color: #0000FF;
-		font-weight: bold;
-		cursor: text;
 }
-[data-cid^="17940223-"] .msg .from .un {
+[data-cid^="4343261-"] .msg .from .un {
 		position: relative;
 		left: -1px;
 		padding-left: 18px;
