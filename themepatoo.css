@@ -163,7 +163,7 @@
 }
 
 .icon-chat-host + span {
-    color: #58F !important;
+    color: #5BF !important;
 }
 
 .icon-chat-cohost + span {
@@ -171,15 +171,15 @@
 }
 
 .icon-chat-manager + span {
-    color: #58F !important;
+    color: #E15 !important;
 }
 
 .icon-chat-bouncer + span {
-    color: #58F !important;
+    color: #F45 !important;
 }
 
 .icon-chat-dj + span {
-    color: #58F !important;
+    color: #F95 !important;
 }
 
 #chat .emote #chat .mention #chat .message #chat .moderation #chat .skip #chat .system #chat .update #chat .welcome {
