@@ -433,3 +433,13 @@ LE PURPLE
     color: #ac76ff;
 }
 
+/*
+Custom Name Colours
+*/
+
+/*Kamilyt*/
+[data-cid^="17528147"].cm .msg .from .un, #user-lists .list .role-manager.id-17528147 .name {
+  color: rgb(252, 42, 122) !important;
+}
+
+
