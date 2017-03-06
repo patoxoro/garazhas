@@ -379,6 +379,18 @@ BADGES
     border-radius: 0;
 }
 
+#chat-messages .fromID-6667459 .badge-box i,
+#chat-messages .id-6667459 .badge-box i {
+    background-image: url(https://i.imgur.com/KGF5tVF.gif);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
+
 /*
 CUSTOM FOOTER
 */
