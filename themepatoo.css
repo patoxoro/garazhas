@@ -392,7 +392,7 @@ BADGES
 }
 
 /*
-CUSTOM FOOTER
+CUSTOM ROOM SHIT
 */
 
 #footer {
@@ -415,6 +415,129 @@ CUSTOM FOOTER
 }
 #footer-user .info.showing {
 	background: linear-gradient(to bottom,rgba(0, 0, 0, 0.55) 0,rgba(0, 0, 0, 0.85) 100%);
+}
+
+/* Less saturated vote buttons */
+#vote .crowd-response, .votes-rs {
+    background: #1F2229;
+}
+#woot.crowd-response.disabled .bottom,
+#grab.crowd-response.disabled .bottom, 
+#meh.crowd-response.disabled .bottom {
+    background: #1F2229;
+    border-bottom: 4px solid #1F2229;
+}
+#vote .crowd-response.selected {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+.votes-rs .title.woot {
+    background: #567339;
+}
+#woot .bottom {
+    background: #567339;
+    background: #1F2229;
+    border-bottom: 4px solid #567339;
+}
+#woot:not(.selected):hover .bottom,
+#woot.selected .bottom, 
+#vote #woot.crowd-response.selected,
+#vote #woot.crowd-response.disabled.active .bottom {
+    background: #567339;
+    border-bottom: 4px solid #567339;
+}
+.votes-rs .title.grab {
+    background: #735c99;
+}
+#grab .bottom {
+    background: #735c99;
+    background: #1F2229;
+    border-bottom: 4px solid #735c99;
+}
+#grab:not(.selected):hover .bottom,
+#grab.selected .bottom, 
+#vote #grab.crowd-response.selected,
+#vote #grab.crowd-response.disabled.active .bottom {
+    background: #735c99;
+    border-bottom: 4px solid #735c99;
+}
+.votes-rs .title.meh {
+    background: #73393e;
+}
+#meh .bottom {
+    background: #73393e;
+    background: #1F2229;
+    border-bottom: 4px solid #73393e;
+}
+#meh:not(.selected):hover .bottom,
+#meh.selected, #meh.selected .bottom, 
+#vote #meh.crowd-response.selected,
+#vote #meh.crowd-response.disabled.active .bottom {
+    background: #73393e;
+    border-bottom: 4px solid #73393e;
+}
+
+/* Better looking dj button */
+#dj-button, #dj-button .left {
+    border-radius: 8px;
+    background: #1F2229;
+}
+#dj-button.is-leave .left, 
+#dj-button.is-quit .left,
+#dj-button.is-wait .left {
+    background: linear-gradient(to bottom,rgba(57,63,76, 1) 0,rgba(34,38,46, 1) 100%);
+}
+#dj-button.is-locked .left, #dj-button.is-full .left {
+    background: #1F2229;
+    background: linear-gradient(to bottom,rgba(40,44,53, 1) 0,rgba(25,25,25, 1) 100%);
+    background: linear-gradient(to bottom,rgba(37,42,51, 1) 0,rgba(22,22,22, 1) 100%);
+    border-right: 3px solid #282c35;
+    border-left-width: 4px;
+}
+
+/* Header */
+.app-right .divider {
+    display: none;
+}
+.right-meta,
+#history-button,
+#rs-skip-button {
+    background: linear-gradient(to bottom,rgba(30,34,41, 1) 0,rgba(19,21,26, 1) 100%);
+}
+.right-meta .selected,
+#history-button.selected {
+    border-right: none;
+    background: #0A0A0A;
+}
+#history-button,
+#rs-skip-button {
+    border-right: #0A0A0A 1px solid;
+}
+#rs-skip-button {
+	right: 54px;
+}
+
+/* Header */
+.app-right .divider {
+    display: none;
+}
+.right-meta,
+#history-button,
+#rs-skip-button {
+    background: linear-gradient(to bottom,rgba(30,34,41, 1) 0,rgba(19,21,26, 1) 100%);
+}
+.right-meta .selected,
+#history-button.selected {
+    border-right: none;
+    background: #0A0A0A;
+}
+#history-button,
+#rs-skip-button {
+    border-right: #0A0A0A 1px solid;
+}
+#rs-skip-button {
+	right: 54px;
 }
 
 /*
@@ -465,5 +588,6 @@ Custom Name Colours
 [data-cid^="17528147"].cm .msg .from .un, #user-lists .list .role-manager.id-17528147 .name {
   color: rgb(252, 42, 122) !important;
 }
+
 
 
