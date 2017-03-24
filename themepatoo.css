@@ -155,7 +155,7 @@
 }
 
 #chat .icon .icon-p3 {
-    background-image: url('null') !important;
+    background-image: url('') !important;
 }
 
 .icon-chat-ambassador + span {
