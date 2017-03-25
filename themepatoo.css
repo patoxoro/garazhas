@@ -540,6 +540,81 @@ CUSTOM ROOM SHIT
 	right: 54px;
 }
 
+/*MoreRandomShit*/
+
+#user-rollover.is-staff.role-host .info .role span {
+  color: #5BF !important;
+}
+#user-rollover.is-staff.role-host .info .role i {
+  background: url(http://i.imgur.com/guvZ1Ko.png) !important;
+}
+#user-rollover.is-staff.role-cohost .info .role span {
+  color: #58F !important;
+}
+#user-rollover.is-staff.role-cohost .info .role i {
+  background: url(http://i.imgur.com/bWDx3qW.png) !important;
+}
+#user-rollover.is-staff.role-manager .info .role span {
+  color: #E15 !important;
+}
+#user-rollover.is-staff.role-manager .info .role i {
+  background: url(http://i.imgur.com/h3eEVmr.png) !important;
+}
+#user-rollover.is-staff.role-bouncer .info .role span {
+  color: #F45 !important;
+}
+#user-rollover.is-staff.role-bouncer .info .role i {
+  background: url(http://i.imgur.com/iCsJUdU.png) !important;
+}
+#user-rollover.is-staff.role-dj .info .role span {
+  color: #F95 !important;
+}
+#user-rollover.is-staff.role-dj .info .role i {
+  background: url(http://i.imgur.com/z2wqpPb.png) !important;
+}
+
+#user-lists .list .user:hover{background:linear-gradient(to right,rgba(255,118,118,0) 0,rgba(0,114,255,0.27) 100%)!important;}#waitlist .list .user:hover{background:linear-gradient(to right,rgba(255,118,118,0) 0,rgba(0,114,255,0.27) 100%)!important;}#waitlist .list .user{background:none;}.app-right .friends{background:none!important;}#settings .header{background:rgba(28,31,37,0.78)!important;}@media (max-width: 1600px) {#room .app-right{background:linear-gradient(hsla(210,10%,8%,0.8),hsla(210,10%,4%,0.8));}}#chat-input{background:rgba(74,80,93,0.2);border-radius:16px;}#chat .message:nth-child(2n+1),#chat .mention:nth-child(2n+1),#chat .skip:nth-child(2n+1),#chat .moderation:nth-child(2n+1),#chat .emote:nth-child(2n+1),#chat .update:nth-child(2n+1),#chat .welcome:nth-child(2n+1){background-color:rgba(17,19,23,0.32);-webkit-animation:fadein 0.25s;-moz-animation:fadein 0.25s;-ms-animation:fadein 0.25s;-o-animation:fadein 0.25s;animation:fadein 0.25s;}#chat .emote,#chat .mention,#chat .message,#chat .moderation,#chat .skip,#chat .system,#chat .update,#chat .welcome{-webkit-animation:fadein 0.25s;-moz-animation:fadein 0.25s;-ms-animation:fadein 0.25s;-o-animation:fadein 0.25s;animation:fadein 0.25s;}#chat .mention{font-weight:700;border-left:#7681FF 3px solid;}#chat .emote .from{color:#ac76ff!important;}#chat .emote{border-left:rgba(174,69,189,1) 3px solid!important;background-color:rgba(76,93,119,0.22)!important;}.tab-menu button{background:rgba(35,35,35,0.7);color:#dadcde;border-radius:30px;}.tab-menu button.selected{background:rgba(29,100,175,0.7);border-radius:30px;}#chat-messages .emote .icon{}#chat .emote .text{font-style:normal;font-weight:bold;color:#ac76ff;}#user-lists .list.staff .group{background:linear-gradient(to right,rgba(0,0,0,0) 0,rgba(0,0,0,1) 100%)!important;}#app-menu,#app-menu .list{position:absolute;}#app-menu .button{background:linear-gradient(hsla(210,10%,20%,.8),hsla(210,10%,10%,.8));}.header-panel-button.selected{background:linear-gradient(to bottom,rgba(255,255,255,0.25) 0,rgba(255,255,255,0.06) 100%);}
+}
+
+#friends-button .request-count {
+    background: #1889db;
+}
+
+#room-settings .general-settings .description .value {
+  overflow-y: hidden !important;
+}
+
+#user-rollover {
+    border-radius: 30px 30px 0 0;
+    background: linear-gradient(135deg, hsla(0,0%,20%,.6), hsla(0,0%,0%,.6));
+    box-shadow: 0 0 10px #000;
+    box-shadow: 0 0 10px #000;
+}
+
+#user-rollover .info {
+    box-shadow: 0px -2px 10px -1px #000;
+    background: linear-gradient(135deg, hsla(213, 100%, 31%, 0.4), hsla(219, 100%, 16%, 0.4));
+    border-radius: 30% 30% 0px 0px;
+}
+
+#user-rollover .actions .action:hover {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.app-header {
+  background: linear-gradient(hsla(210,10%,20%,.8), hsla(210,10%,10%,.8));
+}
+#rs-skip-button {
+  background: none !important;
+}
+#history-panel {
+  background: linear-gradient(to top,rgba(31, 31, 31, 0.7) 0,rgba(0, 0, 0, 0.75) 100%);
+}
+#user-inventory .history .list .row, #user-inventory .history .list .row .item,
+#history-button {
+  background: none;
+}
+
 /*
 LE PURPLE
 */
@@ -578,6 +653,9 @@ LE PURPLE
     font-style: normal;
     font-weight: bold;
     color: #ac76ff;
+}
+#chat .welcome {
+    color: #F20D0D;
 }
 
 /*
