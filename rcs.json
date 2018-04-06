@@ -39,8 +39,8 @@
         "subscriber":           null,
         "silversubscriber":     null
     },
-    "autocomplete": [],
+    
     "emotes": {
-        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
+        "emotes-name": null
     }
 }
