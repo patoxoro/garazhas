@@ -1,7 +1,7 @@
 {
     "room":                     "Kamurke",
     "author":                   "patoxoro",
-    "icon":                     null,
+    "icon":                     "https://i.imgur.com/uDtqkqV.png",
     "css":                      "https://rawgit.com/patoxoro/garazhas/master/themepatoo.css",
     "rules": {
         "allowAutorespond":     true,
