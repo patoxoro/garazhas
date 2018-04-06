@@ -304,33 +304,11 @@ BADGES
     background-position: center center !important;
 }
 
-#chat-messages .fromID-4343261 .badge-box i,
-#chat-messages .id-4343261 .badge-box i {
-    background-image: url(https://chilloutmusica.github.io/cm/src/badges/5271606.gif);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-}
+/* patoxoro */
 
-#chat-messages .fromID-17528147 .badge-box i,
-#chat-messages .id-17528147 .badge-box i {
-    background-image: url(https://www.iconeasy.com/icon/png/Culture/Wild%20West/black%20scorpion.png);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;    
-}
-
-#chat-messages .fromID-5485803 .badge-box i,
-#chat-messages .id-5485803 .badge-box i {
-    background-image: url(https://chilloutmusica.github.io/cm/src/badges/Zero7CO.gif);
+#user-rollover.id-4343261 .badge-box i.bdg,
+.id-4343261 .badge-box i.bdg {
+    background-image: url("https://i.imgur.com/NM4dEsW.gif");
     background-size: cover;
     width: 30px;
     height: 30px;
@@ -345,54 +323,6 @@ BADGES
 #user-rollover.id-22029396 .badge-box i.bdg,
 .id-22029396 .badge-box i.bdg {
     background-image: url("https://i.imgur.com/YrCNIxD.gif");
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-}
-
-#chat-messages .fromID-17940223 .badge-box i,
-#chat-messages .id-17940223 .badge-box i {
-    background-image: url(https://chilloutmusica.github.io/cm/src/badges/Vicion.gif);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-}
-
-#chat-messages .fromID-13590975 .badge-box i,
-#chat-messages .id-13590975 .badge-box i {
-    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/c7/49/d6/c749d6b0102501e4d22ae34bb08343c1.gif);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-}
-
-#chat-messages .fromID-3857622 .badge-box i,
-#chat-messages .id-3857622 .badge-box i {
-    background-image: url(https://i.imgur.com/jwyEkL0.gif);
-    background-size: cover;
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-}
-
-#chat-messages .fromID-6667459 .badge-box i,
-#chat-messages .id-6667459 .badge-box i {
-    background-image: url(https://i.imgur.com/KGF5tVF.gif);
     background-size: cover;
     width: 30px;
     height: 30px;
